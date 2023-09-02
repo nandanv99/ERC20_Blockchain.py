@@ -30,5 +30,14 @@ end_date_new: The end date of the date range.
 delta: The time interval for each data retrieval (e.g., 30 days).
 ```
 Run the script:
-```python ERC20_Blockchain.py```
+```
+python ERC20_Blockchain.py
+```
+
+
+## Notes
+- You can adjust the days and end_day variables to control the number of data retrieval iterations and the endpoint of your search.
+- The script retrieves data in batches to handle large date ranges efficiently.
+
+🧠❤️ Feel free to customize this README to include any additional information or instructions that you think would be helpful.
 
