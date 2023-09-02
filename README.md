@@ -6,4 +6,5 @@
 - Avalanche (AVAX) via Snowtrace
 - Arbitrum
 
-## You can use both node connections and API keys from these explorers to retrieve the data.
+👉🏻 You can use both node connections and API keys from these explorers to retrieve the data.
+
