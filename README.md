@@ -12,4 +12,4 @@
 
 
 ## ERC20 Token Transaction Data Retrieval for file:
-[orignal.py]("https://github.com/nandanv99/ERC20_Blockchain.py/blob/main/orignal_eth.py")
+[orignal.py](https://github.com/nandanv99/ERC20_Blockchain.py/blob/main/orignal_eth.py)
