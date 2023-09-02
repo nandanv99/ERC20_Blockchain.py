@@ -5,6 +5,7 @@
 - Polygon (formerly Matic)
 - Avalanche (AVAX) via Snowtrace
 - Arbitrum
+- Optimism
 
 👉🏻 You can use both node connections and API keys from these explorers to retrieve the data.
 
