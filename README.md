@@ -11,5 +11,24 @@
 
 
 
-## ERC20 Token Transaction Data Retrieval for file:
-[orignal.py](https://github.com/nandanv99/ERC20_Blockchain.py/blob/main/orignal_eth.py)
+## ERC20 Token Transaction Data Retrieval for file [orignal.py](https://github.com/nandanv99/ERC20_Blockchain.py/blob/main/orignal_eth.py):
+This Python script allows you to fetch ERC20 token transaction data within a specified date range from the Ethereum blockchain using the Etherscan API. It splits the data into multiple CSV files based on a specified time interval.
+### Prerequisites:
+Before running the script, you need to have the following:
+- Python 3 installed on your machine.
+- Necessary Python libraries (Pandas) installed.
+### Usage:
+- Replace API_KEY with your Etherscan API key in the script.
+
+- Specify the ERC20 token contract address you want to retrieve data for in the main function.
+
+- Set the desired date range in the main function:
+
+```
+start_date_new: The start date of the date range.
+end_date_new: The end date of the date range.
+delta: The time interval for each data retrieval (e.g., 30 days).
+```
+Run the script:
+```python ERC20_Blockchain.py```
+
