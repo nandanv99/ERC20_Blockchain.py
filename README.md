@@ -11,7 +11,7 @@
 
 
 
-## ERC20 Token Transaction Data Retrieval for file [orignal.py](https://github.com/nandanv99/ERC20_Blockchain.py/blob/main/orignal_eth.py):
+## ERC20 Token Transaction Data Retrieval for file [orignal_eth.py](https://github.com/nandanv99/ERC20_Blockchain.py/blob/main/orignal_eth.py):
 This Python script allows you to fetch ERC20 token transaction data within a specified date range from the Ethereum blockchain using the Etherscan API. It splits the data into multiple CSV files based on a specified time interval.
 ### Prerequisites:
 Before running the script, you need to have the following:
@@ -31,7 +31,7 @@ delta: The time interval for each data retrieval (e.g., 30 days).
 ```
 Run the script:
 ```
-python orignal.py
+python orignal_eth.py
 ```
 
 
