@@ -31,7 +31,7 @@ delta: The time interval for each data retrieval (e.g., 30 days).
 ```
 Run the script:
 ```
-python ERC20_Blockchain.py
+python orignal.py
 ```
 
 
